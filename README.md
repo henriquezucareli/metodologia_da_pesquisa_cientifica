@@ -18,6 +18,8 @@ De acordo com a Política Nacional de Resíduos Sólidos (Lei Federal 12.305/201
 
 Dentre as diversas causas para este baixo aproveitamento na reciclagem, pode-se destacar a inexistência, na maioria das cidades brasileiras, de coleta seletiva de lixo. A pesquisa realizada por Conke & Nascimento, em 2018, apontou que somente 41% dos municípios possui coleta seletiva e que apenas 10% do lixo que pode ser reciclado é recolhido. Assim, nos locais onde não há uma iniciativa por parte da prefeitura, faz-se necessário fortalecer os catadores individuais e as cooperativas e, ao mesmo tempo, incentivar a população a separar o lixo reciclável e fornecê-los regularmente a quem faz a coleta. Além de ações de conscientização, outra forma de fazer este incentivo é criar ferramentas que possam tornar o contato entre as pessoas geradoras de resíduos e os catadores o mais fácil e prático possível.
 
+Outro benefício da reciclagem é seu potencial econômico. Segundo relatório anual de 2017-2018 da Associação Nacional dos Catadores e Catadoras de Materiais Recicláveis (ANCAT), foram 270 cooperativas e associações cadastradas, distribuídas por 21 estados da federação. Durante esse período, foi comercializado por essas organizações cerca de 154 mil toneladas de resíduos e R$ 71 milhões em transações. A maior parte das organizações se encontra nos estados da região Sudeste, onde 47% de todo o faturamento foi obtido através da comercialização realizada na região. Ou seja, nacionalmente, ainda há muito potencial para crescimento econômico vindo da reciclagem. (ANUÁRIO DA RECICLAGEM, 2018).
+
 
 
 PROPOSTA DE SOLUÇÃO
@@ -38,3 +40,4 @@ BRASIL, Lei N° 12.305 de 02 de agosto de 2010 - Política Nacional de Resíduos
 
 CONKE, LS. & NASCIMENTO, EP. A coleta seletiva nas pesquisas brasileiras: uma avaliação metodológica. Revista Brasileira de Gestão Urbana (Brazilian Journal of Urban Management), 10(1), 199-212, 2018.
 
+ASSOCIAÇÃO NACIONAL DOS CATADORES E CATADORAS DE MATERIAIS RECICLÁVEIS. Anuário da Reciclagem 2017 - 2018.
